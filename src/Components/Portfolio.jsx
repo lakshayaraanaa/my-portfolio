@@ -837,6 +837,7 @@ export default function Portfolio() {
                     <li>Git & GitHub</li>
                     <li>NPM</li>
                     <li>Nodemon</li>
+                    <li>Generative AI(Tools)</li>
                   </ul>
                 </div>
                 <div className="skill-category">
